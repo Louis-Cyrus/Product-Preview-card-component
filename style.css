@@ -20,6 +20,10 @@ html {
     border-bottom-left-radius: 2%;
 }
 
+.image_mobile {
+    display: none;
+}
+
 .main {
     display: flex;
     flex-direction: column;
@@ -90,4 +94,25 @@ html {
 .attribution {
     margin-top: 4rem;
     text-align: center;
+}
+
+@media only screen and (max-width: 375px){
+    .card {
+        display: flex;
+        flex-direction: column;
+        width: 18em;
+        margin: 25rem auto 0;
+        height: 100%;
+    }
+
+    .image {
+        display: none;
+    }
+
+    .image_mobile {
+        display: block;
+        width: 100%;
+        border-top-left-radius: 2%;
+        border-top-right-radius: 2%;
+    }
 }
