@@ -20,10 +20,6 @@ html {
     border-bottom-left-radius: 2%;
 }
 
-.image_mobile {
-    display: none;
-}
-
 .main {
     display: flex;
     flex-direction: column;
@@ -103,10 +99,6 @@ html {
         width: 18em;
         margin: 25rem auto 0;
         height: 100%;
-    }
-
-    .image {
-        display: none;
     }
 
     .image_mobile {
