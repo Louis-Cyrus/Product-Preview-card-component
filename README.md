@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Capture%20d%E2%80%99%C3%A9cran%202022-10-06%20%C3%A0%2018.43.51.png)
+![My Project Screenshot](./images/Capture%20d%E2%80%99%C3%A9cran%202022-10-06%20%C3%A0%2018.43.51.png)
 
 ### Links
 
